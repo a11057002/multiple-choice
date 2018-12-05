@@ -54,7 +54,7 @@ Qa(question:"toast",answer:["蛋餅","鐵板麵","薯餅","吐司"],correct:"土
         {
             let alertController = UIAlertController(
                 title: "遊戲結束",
-                message: "分數：\(grade)分",
+                message: "分數 ：\(grade)分",
                 preferredStyle: .alert)
             
             let okBtn = UIAlertAction(
